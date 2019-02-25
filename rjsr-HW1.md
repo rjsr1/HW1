@@ -1,3 +1,7 @@
+Video resolucao git Hooks : (http://youtu.be/BNAevXPT1gA?hd=1)
+
+Learn Git Branching 
+
 Introdution Sequence Exercises
 
 01-
